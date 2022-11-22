@@ -1,0 +1,17 @@
+{
+    "name": "lugo/ejercicios_videos",
+    "description": "Ejerciciosvideos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "App\\Exceptions\\" : "app/Exception"
+        }
+    },
+    "authors": [
+        {
+            "name": "JesusLugo"
+        }
+    ],
+    "require": {}
+}
